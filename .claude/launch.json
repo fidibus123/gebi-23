@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "birthday-site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8123", "--directory", "/Users/valeria/Documents/23_birthdayparty_valeria"],
+      "port": 8123
+    }
+  ]
+}
